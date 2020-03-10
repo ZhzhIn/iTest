@@ -10,7 +10,7 @@ import java.util.Random;
  * Created by jizhi.qian on 2018/11/14.
  */
 public class UnitTest {
-    @Test
+    //@Test
     public void testAddInt(){
         int a = new Random().nextInt(1000);
         int b = new Random().nextInt(2000);
